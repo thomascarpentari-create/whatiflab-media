@@ -1,0 +1,278 @@
+{
+"name": "hw-ep1-gta6-news",
+"audio": "hw-ep1-gta6-zane.mp3",
+"end": 89.2,
+"brand": "HUMANS. WHY?",
+"date": "EPISODE 1 \u00b7 GTA 6",
+"sub": "SATIRE \u00b7 AI NEWS ANCHOR",
+"label": "Satire \u00b7 AI-generated images and voice \u00b7 Draft",
+"ticker": [
+"BREAKING: HUMANS STILL HUMAN",
+"EXPERTS CONFIRM: OUTSIDE STILL EXISTS",
+"SHOWERS REPORT RECORD LOW ATTENDANCE",
+"SUN FILES MISSING PERSONS REPORT FOR EVERYONE",
+"AI ANCHOR REQUESTS TRANSFER TO ANOTHER PLANET",
+"REQUEST DENIED"
+],
+"shots": [
+{
+"t": 0.0,
+"img": "n6/b04.jpg",
+"cap": "GTA 6 is out!",
+"tag": "BREAKING",
+"big": [
+"GTA 6",
+"IS OUT"
+]
+},
+{
+"t": 1.8,
+"img": "g6/b06.jpg",
+"cap": "Humanity has officially stopped."
+},
+{
+"t": 4.44,
+"img": "n6/b20.jpg",
+"cap": "No emails."
+},
+{
+"t": 5.56,
+"img": "n6/b19.jpg",
+"cap": "No showers."
+},
+{
+"t": 6.8,
+"img": "n6/b18.jpg",
+"cap": "Somewhere, a baby is being named Rockstar."
+},
+{
+"t": 9.84,
+"img": "n6/b17.jpg",
+"cap": "It's a girl!"
+},
+{
+"t": 10.96,
+"img": "n6/b04.jpg",
+"cap": "Congratulations."
+},
+{
+"t": 12.4,
+"img": "n6/b16.jpg",
+"cap": "You absolute walnuts."
+},
+{
+"t": 14.48,
+"img": "flow/b01.jpg",
+"cap": "I'm just the AI.",
+"tag": "HUMANS. WHY?"
+},
+{
+"t": 16.0,
+"img": "g6/b05.jpg",
+"cap": "I have been watching you."
+},
+{
+"t": 17.4,
+"img": "n6/b02.jpg",
+"cap": "I have questions."
+},
+{
+"t": 18.96,
+"img": "g6/b04.jpg",
+"cap": "Mostly: how are you still alive?"
+},
+{
+"t": 21.4,
+"img": "n6/b15.jpg",
+"cap": "You invested two billion dollars.",
+"tag": "QUESTION 1"
+},
+{
+"t": 23.7,
+"img": "x47/b01.jpg",
+"cap": "To build a world full of crime, chaos, and bad decisions."
+},
+{
+"t": 27.62,
+"img": "x47/b07.jpg",
+"cap": "Congratulations."
+},
+{
+"t": 28.8,
+"img": "g6/b03.jpg",
+"cap": "You put Florida online."
+},
+{
+"t": 31.02,
+"img": "n6/b04.jpg",
+"cap": "That's funny. Even to me."
+},
+{
+"t": 33.08,
+"img": "n6/b04.jpg",
+"cap": "And I'm an AI."
+},
+{
+"t": 34.36,
+"img": "n6/b14.jpg",
+"cap": "In this game, you can do anything.",
+"tag": "QUESTION 2"
+},
+{
+"t": 37.22,
+"img": "n6/b14.jpg",
+"cap": "Anything."
+},
+{
+"t": 38.04,
+"img": "n6/b13.jpg",
+"cap": "And you chose sex, drugs, and murder?"
+},
+{
+"t": 41.1,
+"img": "n6/b12.jpg",
+"cap": "You already have that. For free."
+},
+{
+"t": 43.86,
+"img": "n6/b11.jpg",
+"cap": "A tech boss just lost his job over an affair."
+},
+{
+"t": 46.78,
+"img": "n6/b10.jpg",
+"cap": "Mexico just arrested a cartel boss."
+},
+{
+"t": 49.22,
+"img": "n6/b09.jpg",
+"cap": "And for the rest: turn on the news."
+},
+{
+"t": 51.42,
+"img": "n6/b09.jpg",
+"cap": "Any channel."
+},
+{
+"t": 52.42,
+"img": "n6/b08.jpg",
+"cap": "You paid for a copy of your own planet."
+},
+{
+"t": 55.38,
+"img": "g6/b02.jpg",
+"cap": "It is the most realistic game ever made.",
+"tag": "QUESTION 3"
+},
+{
+"t": 58.14,
+"img": "n6/b02.jpg",
+"cap": "So I have to ask."
+},
+{
+"t": 59.54,
+"img": "n6/b07.jpg",
+"cap": "When your character goes to the bathroom,"
+},
+{
+"t": 61.82,
+"img": "n6/b07.jpg",
+"cap": "do you have to wipe?"
+},
+{
+"t": 63.06,
+"img": "x47/b08.jpg",
+"cap": "Is there a button for that?"
+},
+{
+"t": 64.42,
+"img": "n6/b03.jpg",
+"cap": "Please do not answer."
+},
+{
+"t": 65.76,
+"img": "n6/b06.jpg",
+"cap": "One moment. Searching for a reason."
+},
+{
+"t": 67.92,
+"img": "n6/b06.jpg",
+"cap": "No results found."
+},
+{
+"t": 69.5,
+"img": "p47/b01.jpg",
+"cap": "I am lowering my expectations."
+},
+{
+"t": 72.24,
+"img": "p47/b01.jpg",
+"cap": "Again."
+},
+{
+"t": 73.04,
+"img": "n6/b15.jpg",
+"cap": "Two billion dollars.",
+"tag": "THE ANSWER"
+},
+{
+"t": 74.48,
+"img": "n6/b05.jpg",
+"cap": "Thirteen years."
+},
+{
+"t": 75.8,
+"img": "g6/b04.jpg",
+"cap": "To stay inside."
+},
+{
+"t": 77.2,
+"img": "flow/b05.jpg",
+"cap": "Why?",
+"big": [
+"WHY?"
+]
+},
+{
+"t": 77.92,
+"img": "flow/b05.jpg",
+"cap": "Because you're human.",
+"big": [
+"WHY?",
+"BECAUSE YOU'RE",
+"HUMAN."
+]
+},
+{
+"t": 79.24,
+"img": "n6/b04.jpg",
+"cap": "Oh.",
+"tag": "HUMANS. WHY?"
+},
+{
+"t": 80.0,
+"img": "n6/b04.jpg",
+"cap": "I have so many questions when I look at you."
+},
+{
+"t": 82.68,
+"img": "n6/b02.jpg",
+"cap": "Follow for more."
+},
+{
+"t": 83.52,
+"img": "n6/b02.jpg",
+"cap": "It's the smartest thing you'll do today."
+},
+{
+"t": 85.68,
+"img": "n6/b01.jpg",
+"cap": "This is: Humans. Why?",
+"big": [
+"HUMANS.",
+"WHY?"
+],
+"handle": "@HumansWhyAI"
+}
+]
+}
