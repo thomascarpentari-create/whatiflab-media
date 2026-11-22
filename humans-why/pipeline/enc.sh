@@ -1,0 +1,3 @@
+cd /home/claude/wt
+enc(){ n=$1; dur=$(ffprobe -v error -show_entries format=duration -of csv=p=0 pub/$n.mp4); vb=$(python3 -c "print(int((3.60e6*8/$dur-56000-7000)/1000))"); ffmpeg -v error -y -i pub/$n.mp4 -c:v libx265 -preset medium -b:v ${vb}k -x265-params "pass=1:stats=pub/$n.log:log-level=error" -tag:v hvc1 -an -f mp4 /dev/null && ffmpeg -v error -y -i pub/$n.mp4 -c:v libx265 -preset medium -b:v ${vb}k -x265-params "pass=2:stats=pub/$n.log:log-level=error" -tag:v hvc1 -c:a aac -b:a 56k -ac 1 -movflags +faststart pub/${n}_up.tmp.mp4 && mv pub/${n}_up.tmp.mp4 pub/${n}_up2.mp4; echo DONE $n ${vb}k $(stat -c %s pub/${n}_up2.mp4); }
+enc hw-ep1-gta6; enc hw-week47; enc hw-ufo; echo ALLDONE
