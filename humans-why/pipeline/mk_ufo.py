@@ -38,5 +38,5 @@ s(64.30,'n6/b02.jpg','Follow for more.')
 s(65.30,'n6/b02.jpg',"Or don't.")
 s(66.02,'n6/b02.jpg','You never make good decisions anyway.')
 s(68.10,'n6/b01.jpg','This is: Humans. Why?',big=['HUMANS.','WHY?'],handle='@HumansWhyAI')
-json.dump(dict(name='hw-ufo-news',audio='hw-ufo-zane.mp3',end=71.8,brand='HUMANS. WHY?',date='DAILY · UFO FOOTAGE',sub='SATIRE · AI NEWS ANCHOR',label='Satire · AI-generated images and voice · Draft',
+json.dump(dict(name='hw-ufo-news',audio='hw-ufo-zane.mp3',end=71.8,brand='HUMANS. WHY?',date='UFO FOOTAGE',sub='SATIRE · AI NEWS ANCHOR',label='Satire · AI-generated images and voice · Draft',
  ticker=['BREAKING: HUMANS STILL HUMAN','SKY REMAINS UNAVAILABLE FOR COMMENT','LOCAL POTATO DENIES INVOLVEMENT','ALIENS RATE EARTH ONE STAR: "WOULD NOT VISIT"','CAMERA WITH 200 MEGAPIXELS FOUND FILMING LUNCH','AI ANCHOR STILL HAS QUESTIONS'],shots=S),open('n_ufo.json','w'))
